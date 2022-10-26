@@ -3,3 +3,7 @@
 ### Index
 
 - Array
+- Stacks & Queues
+- Binary Tree
+- Binary Search Tree
+- Linked List
