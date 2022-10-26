@@ -14,6 +14,7 @@ struct Node {
 };
 
 void removeLoop(Node* head) {
+    bool isLoop = true;
     if(isLoop) {
     
         unordered_map<Node*, int> mup;
