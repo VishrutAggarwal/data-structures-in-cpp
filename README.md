@@ -3,7 +3,9 @@
 ### Index
 
 - Array
-- Stacks & Queues
-- Binary Tree
-- Binary Search Tree
+- Binary Search Trees
+- Binary Trees
+- Dynamic Programming
+- Greedy Algorithms
 - Linked List
+- Stacks & Queues
